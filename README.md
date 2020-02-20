@@ -83,5 +83,4 @@ Instructions for what to post on the mailing list are on the wiki. Please note t
 
 License and Author
 
-Author:: juvin92j0n@yahoo.com
 Copyright:: 2015 Juvin Jon Controlled Full Free for All anyone can use and Developed. 
